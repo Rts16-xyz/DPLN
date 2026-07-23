@@ -1,0 +1,33 @@
+VERSION="2.0.0"
+
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+
+ACCOUNTS=[
+"GC53AK2JTSXGRQIJCOKLPQY7AFM22S52MA2XSO4BDB4IJYK237AZBUCH"
+]
+
+[DOCUMENTATION]
+ORG_NAME="DPLN Network"
+ORG_DBA="DPLN"
+ORG_URL="https://rts.web.id"
+ORG_LOGO="https://rts.web.id/img/logo.png"
+ORG_DESCRIPTION="DPLN is a decentralized utility token built on the Stellar Network for blockchain-powered energy and digital payments."
+ORG_PHYSICAL_ADDRESS="Indonesia"
+ORG_OFFICIAL_EMAIL="hello@rts.web.id"
+ORG_SUPPORT_EMAIL="support@rts.web.id"
+ORG_GITHUB="rts16-xyz"
+
+[[PRINCIPALS]]
+name="DPLN Foundation"
+email="hello@rts.web.id"
+
+[[CURRENCIES]]
+code="DPLN"
+issuer="GC53AK2JTSXGRQIJCOKLPQY7AFM22S52MA2XSO4BDB4IJYK237AZBUCH"
+display_decimals=7
+name="DPLN Token"
+desc="Fixed supply utility token on Stellar."
+image="https://rts.web.id/img/logo.png"
+fixed_number=750000
+status="live"
+is_asset_anchored=false
