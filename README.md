@@ -66,7 +66,7 @@ Core Features
 
 # DPLN Stellar
 
-<img src="https://rts.web.id/img/logo.png" width="220" alt="DPLN Logo">
+<img src="https://rts.web.id/img/logo.png" width="220" alt="Logo.png">
 
 ## DPLN - Decentralized Power Ledger Network
 
